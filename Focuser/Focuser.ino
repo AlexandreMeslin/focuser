@@ -1,11 +1,11 @@
 /*
  * Pinouts
- *  0 RX 
- *  1 TX
+ *  0 Serial RX
+ *  1 Serial TX
  *  2  
- *  3 CLK
- *  4 DT
- *  5 SW
+ *  3 Encoder CLK
+ *  4 Encoder DT
+ *  5 Encoder SW
  *  6 
  *  7 
  *  8 
